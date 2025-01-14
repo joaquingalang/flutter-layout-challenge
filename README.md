@@ -1,16 +1,5 @@
-# layout_challenge
+# Flutter Layout Challenge
 
-A layout challenge for a mobile development workshop.
+This application serves as a layout challenge for a mobile development workshop led by Google Developer Groups on Campus - Holy Angel University. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This exercise serves as a way for the participants to demonstrate their proficiency with using the Row & Column Widgets in Flutter. 
