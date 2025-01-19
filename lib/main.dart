@@ -27,10 +27,10 @@ class LayoutScreen extends StatelessWidget {
       body: SafeArea(
         child: Row(
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
+          crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
             Container(
               width: 100,
-              height: double.infinity,
               color: Colors.red,
             ),
             Column(
@@ -50,7 +50,6 @@ class LayoutScreen extends StatelessWidget {
             ),
             Container(
               width: 100,
-              height: double.infinity,
               color: Colors.blue,
             ),
           ],
